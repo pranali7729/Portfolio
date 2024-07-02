@@ -11,6 +11,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   padding: 0;
+  
   width: 100%;
 }
 
@@ -75,6 +76,7 @@ p {
 
 p.large {
   font-size: 24px;
+  background-color: rgba(239, 239, 239, 0.645);
 }
 
 p.small {
